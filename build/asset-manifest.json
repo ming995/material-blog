@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e65daf1b.chunk.css",
-    "main.js": "/static/js/main.71368320.chunk.js",
-    "main.js.map": "/static/js/main.71368320.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-    "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-    "static/js/2.efac2b0a.chunk.js": "/static/js/2.efac2b0a.chunk.js",
-    "static/js/2.efac2b0a.chunk.js.map": "/static/js/2.efac2b0a.chunk.js.map",
+    "main.css": "/material-blog/static/css/main.e65daf1b.chunk.css",
+    "main.js": "/material-blog/static/js/main.7e437cde.chunk.js",
+    "main.js.map": "/material-blog/static/js/main.7e437cde.chunk.js.map",
+    "runtime~main.js": "/material-blog/static/js/runtime~main.c5541365.js",
+    "runtime~main.js.map": "/material-blog/static/js/runtime~main.c5541365.js.map",
+    "material-blog/static/js/2.b75bb198.chunk.js": "/material-blog/static/js/2.b75bb198.chunk.js",
+    "material-blog/static/js/2.b75bb198.chunk.js.map": "/material-blog/static/js/2.b75bb198.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c4a4d72465071bac07c2c7ee7672f067.js": "/precache-manifest.c4a4d72465071bac07c2c7ee7672f067.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e65daf1b.chunk.css.map": "/static/css/main.e65daf1b.chunk.css.map"
+    "material-blog/static/css/main.e65daf1b.chunk.css.map": "/material-blog/static/css/main.e65daf1b.chunk.css.map",
+    "precache-manifest.4ddd22d084d2009a7b63ba6ba91f0b5b.js": "/precache-manifest.4ddd22d084d2009a7b63ba6ba91f0b5b.js",
+    "service-worker.js": "/service-worker.js"
   }
 }
